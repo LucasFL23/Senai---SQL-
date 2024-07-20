@@ -1,0 +1,6 @@
+C:\Users\Lucas\Downloads\projeto web\obj\Debug\net8.0\projeto web.csproj.AssemblyReference.cache
+C:\Users\Lucas\Downloads\projeto web\obj\Debug\net8.0\projeto web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\Downloads\projeto web\obj\Debug\net8.0\projeto web.AssemblyInfoInputs.cache
+C:\Users\Lucas\Downloads\projeto web\obj\Debug\net8.0\projeto web.AssemblyInfo.cs
+C:\Users\Lucas\Downloads\projeto web\obj\Debug\net8.0\projeto web.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Downloads\projeto web\obj\Debug\net8.0\projeto web.MvcApplicationPartsAssemblyInfo.cache
